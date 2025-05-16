@@ -7,8 +7,8 @@ categories = ["demo"]
 tags = ["code", "example"]
 +++
 
-Have code snippets complete with **clipboard functionality** and **fancy
-language tags**. No more boring code snippets in your pages. Oh yeah baby! Click
+Have code snippets complete with clipboard functionality and fancy
+language tags. No more boring code snippets in your pages. Oh yeah baby! Click
 on this article to see some code in action.
 
 <!-- more -->

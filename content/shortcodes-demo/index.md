@@ -23,7 +23,7 @@ Level up your posts with GIFs!
 # Fancy Notes
 
 {{ note(body="
-**Note:** Some really insightful note here.
+Note: Some really insightful note here.
 
 $$ \sum\_{i=1}^{n} i = \frac{n(n+1)}{2} $$
 ")}}
